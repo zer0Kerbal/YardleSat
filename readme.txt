@@ -14,10 +14,16 @@ I. Introduction
 
     This mod is quite simple (it's my first); it adds a single part called 
     YardleSat, which acts as a combination probe core, battery, and RCS tank.
+    
+    Current Version: 1.1
 
 II. Installation
 
-    Extract this directory into Kerbal Space Program/GameData and run the game.
+    Click "Download Now" on the Curse page (http://www.curse.com/ksp-mods/kerbal/232095-yardlesat-1-0)
+
+    Alternatively, click "Download ZIP" on the GitHub page (https://github.com/nklose/YardleSat)
+
+    Extract the file into Kerbal Space Program/GameData and run the game.
 
 III. Statistics
 

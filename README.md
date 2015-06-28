@@ -5,6 +5,8 @@ YardleSat, which acts as a combination probe core, battery, and RCS tank.
 
 # II. Installation
 
+Click "Download ZIP" on the GitHub page (https://github.com/nklose/YardleSat).
+
 Extract this directory into Kerbal Space Program/GameData and run the game.
 
 # III. Statistics
